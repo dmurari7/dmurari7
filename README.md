@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Dharshaan Murari</h1>
 <h3 align="center">A student at Dalhousie University studying Computer Science</h3>
 
-- 🌱 I’m currently learning **Spring, TypeScript**
+- 🌱 I’m currently learning **Pandas, TypeScript**
 
 - 👨‍💻 All of my projects are available at [github.com/dmurari7](github.com/dmurari7)
 
